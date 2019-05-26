@@ -46,7 +46,7 @@ a:link, a:visited, a:active {
 }
 
 .navbar__link {
-  margin-right: 50px;
+  margin-left: 50px;
   font-size: .8rem;
   font-weight: 400;
   letter-spacing: 1px;
@@ -61,7 +61,7 @@ a:link, a:visited, a:active {
   border-radius: 30px;
   background-color: #FFB116;
   color: #000 !important;
-  padding: 15px 25px;
+  padding: 10px 25px;
   border: 1px solid black;
 }
 
